@@ -1,5 +1,8 @@
 # -audio-sound
 The audio narrative will be a record of my daily life. Starting from brushing my teeth, then preparing the things, walking out of my housing, waiting for the bus, some daily events, ballroom dancing, getting back home, washing face, having a phone call with my parents.
+
+Setting: home, bus stop, library, classroom, ballroom
+
 | needs  | Solution |
 | ------------- | ------------- |
 | the ring sound  | freesound  |
