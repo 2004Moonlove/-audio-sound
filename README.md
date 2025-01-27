@@ -1,5 +1,5 @@
 # -audio-sound
-The audio narrative will be a record of my daily life. Starting from brushing my teeth, then preparing the things, walking out of my housing, waiting for the bus, some daily events, ballroom dancing, getting back home, washing face, having a phone call with my parents.
+Premise: The audio narrative will capture a record of my daily life. Starting from brushing my teeth, then preparing the things, waiting for the bus, some daily events, ballroom dancing, getting back home, washing face, having a phone call with my parents. this will includes moments like walking out of my housing, small communications and so on.
 
 Setting: home, bus stop, library, classroom, ballroom
 
